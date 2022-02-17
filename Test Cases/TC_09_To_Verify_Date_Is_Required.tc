@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_09_To_Verify_Date_Is_Required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c18982b-ee78-4678-8621-73ca76547956</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>91ca555e-1829-473f-b8a3-6adc532d8187</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>e5b7181f-c458-454e-9a7e-6433bc425773</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
